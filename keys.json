@@ -3,5 +3,14 @@
     "used": false,
     "expires": "2030-01-01T00:00:00Z",
     "hwid": null
-  }
+  },
+  "keys": [
+    {
+      "key": "MECH-L7S8-6G7J-AMQD",
+      "used": false,
+      "hwid": null,
+      "expires": 1766927988403,
+      "revoked": false
+    }
+  ]
 }
