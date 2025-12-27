@@ -1,0 +1,32 @@
+{
+  "MECH-76RO-LWXX-LLZE": {
+    "expires": 1766935343026,
+    "hwid": null,
+    "used": false,
+    "owner": "1454447054230126646"
+  },
+  "MECH-XYAR-CQOQ-NJ01": {
+    "expires": 0,
+    "hwid": null,
+    "used": false,
+    "owner": "1243825417870245950"
+  },
+  "MECH-BPCV-OJN0-EDUY": {
+    "expires": 0,
+    "hwid": null,
+    "used": false,
+    "owner": "1243825417870245950"
+  },
+  "MECH-518L-XQUH-3ZWP": {
+    "expires": 0,
+    "hwid": null,
+    "used": false,
+    "owner": "1243825417870245950"
+  },
+  "MECH-86W4-CVR2-BW4E": {
+    "expires": "2025-12-28T16:57:38.715Z",
+    "hwid": null,
+    "used": true,
+    "owner": "1243825417870245950"
+  }
+}
