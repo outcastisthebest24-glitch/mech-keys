@@ -36,9 +36,15 @@
     "owner": "1243825417870245950"
   },
   "MECH-D8FU-I7P8-YL74": {
-    "expires": "2025-12-28T17:46:27.035Z",
+    "expires": 0,
     "hwid": null,
-    "used": true,
+    "used": false,
+    "owner": "1243825417870245950"
+  },
+  "MECH-1832-1QYF-0XEN": {
+    "expires": "2025-12-28T18:04:34.201Z",
+    "hwid": null,
+    "used": false,
     "owner": "1243825417870245950"
   }
 }
