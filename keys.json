@@ -1,5 +1,5 @@
 {
-  "EXAMPLE-KEY-1234-5678": {
+  "MECH-TEST-1234-ABCD": {
     "used": false,
     "expires": "2030-01-01T00:00:00Z",
     "hwid": null
